@@ -54,40 +54,23 @@ Following algorithms were later run with the following error rates, all after re
 
     Algorithm               Error
  ------------------        -----
- 1  C4.5                    15.54
-  ------------------        -----
- 2  C4.5-auto               14.46
-  ------------------        -----
- 3  C4.5 rules              14.94
-  ------------------        -----
- 4  Voted ID3 (0.6)         15.64
-  ------------------        -----
- 5  Voted ID3 (0.8)         16.47
-  ------------------        -----
- 6  T2                      16.84
-  ------------------        -----
- 7  1R                      19.54
-  ------------------        -----
- 8  NBTree                  14.10
-  ------------------        -----
- 9  CN2                     16.00
-  ------------------        -----
- 10 HOODG                   14.82
-  ------------------        -----
- 11 FSS Naive Bayes         14.05
-  ------------------        -----
- 12 IDTM (Decision table)   14.46
-  ------------------        -----
- 13 Naive-Bayes             16.12
-  ------------------        -----
- 14 Nearest-neighbor (1)    21.42
-  ------------------        -----
- 15 Nearest-neighbor (3)    20.35
-  ------------------        -----
- 16 OC1                     15.04
-  ------------------        -----
- 17 Pebls                   Crashed.  Unknown why (bounds WERE increased)
-  ------------------        -----
+ - C4.5                    15.54
+ - C4.5-auto               14.46
+ - C4.5 rules              14.94
+ - Voted ID3 (0.6)         15.64
+ - Voted ID3 (0.8)         16.47
+ - T2                      16.84
+ - 1R                      19.54
+ - NBTree                  14.10
+ - CN2                     16.00
+ - HOODG                   14.82
+ - FSS Naive Bayes         14.05
+ - IDTM (Decision table)   14.46
+ - Naive-Bayes             16.12
+ - Nearest-neighbor (1)    21.42
+ - Nearest-neighbor (3)    20.35
+ - OC1                     15.04
+ - Pebls                   Crashed.  Unknown why (bounds WERE increased)
 
 
 ### Questionnaire :
